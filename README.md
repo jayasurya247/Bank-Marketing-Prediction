@@ -58,11 +58,11 @@ The dataset involves records from direct marketing campaigns of a bank, which ar
   - Accuracy: 0.8734198
   - Kappa: 0.357957
 
-Results
+## Results
 Models are evaluated using accuracy and Kappa statistics. The Flexible Discriminant Analysis (FDA) model achieved the highest Kappa among all models, indicating superior performance on the imbalanced dataset.
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue first to discuss what you would like to change.
 
-License
+## License
 This project is licensed under the MIT License - see the `LICENSE` file for details.
